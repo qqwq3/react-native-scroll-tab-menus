@@ -4,7 +4,7 @@
 npm install react-native-scroll-tab-menus -S
 ```
 ### 效果
-![](horizontal.gif)
+<img src="horizontal.gif" width="375px" height="667px"/>
 ```javascript
 import React from 'react';
 import {View, Text, StyleSheet} from 'react-native';
