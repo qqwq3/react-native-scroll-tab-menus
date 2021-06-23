@@ -3,6 +3,8 @@
 ```javascript
 npm install react-native-scroll-tab-menus -S
 ```
+### 效果
+![](horizontal.gif)
 ```javascript
 import React from 'react';
 import {View, Text, StyleSheet} from 'react-native';
