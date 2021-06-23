@@ -1,6 +1,6 @@
 {
   "name": "react-native-scroll-tab-menus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Horizontal or vertical scrolling menu switching based on react native Scrollview encapsulation",
   "main": "index.tsx",
   "scripts": {
