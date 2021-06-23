@@ -1,0 +1,24 @@
+{
+  "name": "react-native-scroll-tab-menus",
+  "version": "1.0.0",
+  "description": "Horizontal or vertical scrolling menu switching based on react native Scrollview encapsulation",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qqwq3/react-native-scroll-tab-menus.git"
+  },
+  "keywords": [
+    "react-native",
+    "js",
+    "ts"
+  ],
+  "author": "leehormone@yeah.net",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qqwq3/react-native-scroll-tab-menus/issues"
+  },
+  "homepage": "https://github.com/qqwq3/react-native-scroll-tab-menus#readme"
+}
